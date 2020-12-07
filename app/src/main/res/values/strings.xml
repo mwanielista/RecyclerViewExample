@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">recyclerviewtest</string>
+
+    <string-array name="array1">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>item1 desc</item>
+        <item>item2 desc</item>
+        <item>item3 desc</item>
+        <item>item4 desc</item>
+    </string-array>
+</resources>
